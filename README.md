@@ -12,7 +12,7 @@ Currently in my journey learning about data analytics and data science.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=e-itohan&theme=dark&hide_border=false)<br/>
 
-## 📺 Data Science final project's presentation:
+## 📺 Data Science capstone's presentation:
 [![SentiPaw: dog’s facial emotion recognition app. Data Science Bootcamp Final Project @ neue fische](https://ytcards.demolab.com/?id=Pgw3V5XKXqI&title=SentiPaw:+dog’s+facial+emotion+recognition+app.+Data+Science+Bootcamp+Final+Project+@+neue+fische)](https://youtu.be/Pgw3V5XKXqI?si=-ULxauSn84Ax_x6W)
 
 ## 🏆 GitHub Trophies:
