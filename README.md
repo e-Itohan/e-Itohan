@@ -8,11 +8,13 @@ Currently in my journey learning about data analytics and data science.
 ## Public Projects:  
 
 ### EDA - Data Analysis
-[Repo](https://github.com/e-Itohan/eda-project)  
+
 <img title="Price Analysis Dashboard" alt="King County" src="dashboard_1.png">  
+[Repo](https://github.com/e-Itohan/eda-project)  
 
 ### Studens Evaluation
 [Repo](https://github.com/e-Itohan/students_evaluation)  
+
 
 ## 📊 GitHub Stats:
 [![Eniola's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-Itohan&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs&theme=midnight-purple)](https://github.com/e-Itohan/github-readme-stats)
