@@ -10,7 +10,9 @@ Currently in my journey learning about data analytics and data science.
 ### EDA - Data Analysis
 
 <img title="Price Analysis Dashboard" alt="King County" src="dashboard_1.png">  
+
 [Repo](https://github.com/e-Itohan/eda-project)  
+[Dashboard](https://public.tableau.com/shared/8NHW3K4DP?:display_count=n&:origin=viz_share_link)  
 
 ### Studens Evaluation
 [Repo](https://github.com/e-Itohan/students_evaluation)  
