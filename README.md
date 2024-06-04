@@ -9,7 +9,7 @@ Currently in my journey learning about data analytics and data science.
 
 ### MLOps project - Customer churn prevention (Credit card)
 
-<img title="Model Accuracy" alt="CNN" src="model_acc.png"> 
+<img title="Model Accuracy" alt="CNN" src="img/model_acc.png"> 
 
 [Repo](https://github.com/e-Itohan/Customer-churn-prevention)
 
