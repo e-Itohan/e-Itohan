@@ -7,9 +7,7 @@ Currently in my journey learning about data analytics and data science.
 
 ## Now working on:
 
-### MLOps project - Customer churn prevention (Credit card)
-
-<img title="Model Accuracy" alt="CNN" src="img/model_acc.png"> 
+### MLOps project - Customer churn prevention (Credit card) 
 
 [Repo](https://github.com/e-Itohan/Customer-churn-prevention)
 
