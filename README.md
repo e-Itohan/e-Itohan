@@ -32,6 +32,10 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 
 ## 🏗️ Featured Projects
 
+### 🔓 Vulnix — Vulnerability Assessment & Hardening
+*Full-cycle pentest: recon → exploitation → root → automated remediation.*
+[View Project →](https://github.com/e-Itohan/vulnix-security-assessment)
+
 ### 🔍 Security & Anomaly Detection
 **Customer Churn Prevention (Reframed)**  
 *Applying anomaly detection techniques to identify irregular patterns in transactional data.*  
