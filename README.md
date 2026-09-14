@@ -72,7 +72,5 @@ I am actively seeking **SOC Analyst**, **Junior Security Analyst**, or **Securit
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-Itohan&show=prs_merged,prs_merged_percentage&show_icons=true&hide=contribs&theme=midnight-purple" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-Itohan&theme=midnight-purple" alt="Top Languages" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=e-Itohan&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=e-Itohan&show_icons=true&include_all_commits=true&theme=nightowl)
+
