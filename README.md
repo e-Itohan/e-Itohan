@@ -36,6 +36,10 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 *Full-cycle pentest: recon → exploitation → root → automated remediation.*
 [View Project →](https://github.com/e-Itohan/vulnix-security-assessment)
 
+### 🌐 PWNEDsteps — Web Application Penetration Test
+*Full-chain web pentest: SQLi → LFI → RCE on intentionally vulnerable app.*
+[View Project →](https://github.com/e-Itohan/pwnedsteps-web-assessment)
+
 ### 🔍 Security & Anomaly Detection
 **Customer Churn Prevention (Reframed)**  
 *Applying anomaly detection techniques to identify irregular patterns in transactional data.*  
