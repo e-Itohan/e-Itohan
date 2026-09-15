@@ -74,7 +74,7 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 I am actively seeking **SOC Analyst**, **Junior Security Analyst**, or **Security Operations Coordinator** roles in Berlin or remotely.
 
 - 💼 **LinkedIn:** [[Link to LinkedIn Profile](https://www.linkedin.com/in/eniola-anianthony/)]
-- 📄 **Resume:** [[Link to PDF Resume](https://rxresu.me/ann_24/soc-analyst-it-security-specialist)]
+- 📄 **Resume:** [[Link to PDF Resume]()]
 
 ---
 
