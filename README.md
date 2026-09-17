@@ -51,10 +51,11 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 [Watch Presentation](https://youtu.be/Pgw3V5XKXqI)  
 *Security Angle:* Understanding how AI models can be applied to behavioral analysis and potential deepfake detection.
 
-### 📝 Security Writeups & Reports
-*Detailed analysis of CTF challenges, lab exercises, and research on online harassment dynamics.*
-- [Link to Lab Writeup 1] (In Progress) In Progress
-- [Link to Research Paper/Report] (In Progress) In Progress
+[//]: # (This is a comment.)
+[//]: # (### 📝 Security Writeups & Reports)
+[//]: # (*Detailed analysis of CTF challenges, lab exercises, and research on online harassment dynamics.*)  
+[//]: # (- [Link to Lab Writeup 1] (In Progress)
+[//]: # (- [Link to Research Paper/Report] (In Progress)  
 
 
 ---
