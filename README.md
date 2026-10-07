@@ -59,19 +59,6 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 [View Project →](https://github.com/e-Itohan/PWNEDsteps-web-assesstment)  
 **Skills:** Burp Suite, WPScan, SQL Injection, File Upload Bypass, Reverse Shells, Python Tools
 
----
-
-### 📊 Customer Churn Prevention (Anomaly Detection)
-*ML pipeline reframed for security: detecting irregular patterns in transactional data.*  
-[View Project →](https://github.com/e-Itohan/Customer-churn-prevention)  
-**Skills:** Python, scikit-learn, Anomaly Detection, Log Analysis Foundations
-
----
-
-### 🤖 SentiPaw — Emotion Recognition AI
-*Capstone: Computer vision application with security implications for behavioral analysis.*  
-[Watch Presentation](https://youtu.be/Pgw3V5XKXqI)  
-**Skills:** TensorFlow, Keras, Computer Vision, Model Deployment
 
 ---
 
