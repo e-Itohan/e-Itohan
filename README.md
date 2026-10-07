@@ -30,44 +30,99 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 Featured Projects
 
-### 🔓 Vulnix — Vulnerability Assessment & Hardening
-*Full-cycle pentest: recon → exploitation → root → automated remediation.*
-[View Project →](https://github.com/e-Itohan/vulnix-security-assessment)
+### ☁️ LearningSteps — Cloud Security Trilogy
+*Three implementations of secure 2-tier architecture: Azure → AWS → DevSecOps automation.*
+
+| Project | Cloud | Focus | Link |
+|---------|-------|-------|------|
+| **Origins** | Azure | Manual deployment with NSG segmentation | [View →](https://github.com/e-Itohan/learningsteps-origins) |
+| **Amazon Forest** | AWS | Cross-cloud replication with Security Groups | [View →](https://github.com/e-Itohan/amazon-forest) |
+| **Evolution** | Azure | Terraform + K8s + CI/CD with Trivy gating | [View →](https://github.com/e-Itohan/learningsteps-evolution) |
+
+> *"Four of five failures were resolved by asking 'is the detector wrong, or is the signal real?' before changing anything — the same discipline as SOC alert analysis."*
+
+**Skills:** Azure, AWS, Terraform, Kubernetes (AKS), Docker, GitHub Actions, Trivy, PostgreSQL, VPC/NSG
+
+---
+
+### 🔐 Vulnix — Vulnerability Assessment & Hardening
+*Full-cycle pentest: recon → exploitation → privilege escalation → automated remediation.*  
+[View Project →](https://github.com/e-Itohan/vulnix-security-assessment)  
+**Skills:** Nmap, Metasploit, NFS exploitation, iptables, Bash scripting, Privilege Escalation
+
+---
 
 ### 🌐 PWNEDsteps — Web Application Penetration Test
-*Full-chain web pentest: SQLi → LFI → RCE on intentionally vulnerable app.*
-[View Project →](https://github.com/e-Itohan/pwnedsteps-web-assessment)
+*Full-chain web pentest: SQLi → LFI → RCE on intentionally vulnerable app.*  
+[View Project →](https://github.com/e-Itohan/pwnedsteps-web-assessment)  
+**Skills:** Burp Suite, WPScan, SQL Injection, File Upload Bypass, Reverse Shells, Python Tools
 
-### 🔍 Security & Anomaly Detection
-**Customer Churn Prevention (Reframed)**  
-*Applying anomaly detection techniques to identify irregular patterns in transactional data.*  
-[View Repository](https://github.com/e-Itohan/Customer-churn-prevention)  
-*Key Takeaway:* Demonstrates ability to use ML for identifying outliers—a core skill in threat hunting.
+---
 
-### 🤖 AI for Threat Classification (SentiPaw)
-*Final Capstone: Dog emotion recognition using Computer Vision.*  
+### 📊 Customer Churn Prevention (Anomaly Detection)
+*ML pipeline reframed for security: detecting irregular patterns in transactional data.*  
+[View Project →](https://github.com/e-Itohan/Customer-churn-prevention)  
+**Skills:** Python, scikit-learn, Anomaly Detection, Log Analysis Foundations
+
+---
+
+### 🤖 SentiPaw — Emotion Recognition AI
+*Capstone: Computer vision application with security implications for behavioral analysis.*  
 [Watch Presentation](https://youtu.be/Pgw3V5XKXqI)  
-*Security Angle:* Understanding how AI models can be applied to behavioral analysis and potential deepfake detection.
+**Skills:** TensorFlow, Keras, Computer Vision, Model Deployment
 
-[//]: # (This is a comment.)
-[//]: # (### 📝 Security Writeups & Reports)
-[//]: # (*Detailed analysis of CTF challenges, lab exercises, and research on online harassment dynamics.*)  
-[//]: # (- [Link to Lab Writeup 1] (In Progress)
-[//]: # (- [Link to Research Paper/Report] (In Progress)  
+---
 
+### 📁 Security Writeups & Reports
+*CTF solutions, lab documentation, and cloud architecture diagrams.*  
+[Reports Folder →](https://github.com/e-Itohan/e-Itohan/tree/main/reports)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Security** | CompTIA Security+, SC-900, AZ-900, SIEM (Sentinel, Splunk), Wireshark, Nmap, Metasploit, Linux (Kali/Ubuntu), Incident Response, OWASP Top 10 |
+| **Cloud & DevSecOps** | Microsoft Azure, AWS, Terraform (IaC), Kubernetes (AKS), Docker, GitHub Actions (CI/CD), Trivy, Key Vault, Azure AD |
+| **Scripting & Automation** | **Python** (Forensics, Automation), **SQL** (Log Querying), Bash, PowerShell |
+| **Data Analysis** | Pandas, NumPy, Git/GitHub, Jupyter, Data Visualization |
+| **Platforms** | Virtualization (VirtualBox/VMware), AWS (Fundamentals) |
+| **Languages** | English (C1), German (C1), Spanish (Native) |
 
 ---
 
 ## 🎓 Certifications & Training
 
-- **CompTIA Security+** (Achieved)
-- **AZ-900 Azure Fundamentals** (Achieved)
-- **CyberSteps** (In Progress)
+- **CompTIA Security+** (Certified June 2026)
+- **Microsoft SC-900** — Security, Compliance & Identity Fundamentals (Certified October 2026)
+- **Microsoft AZ-900** — Azure Fundamentals (Certified September 2026)
+- **CyberSteps** Training Program (Active, 1,440 hours) — SIEM, Incident Response, MITRE ATT&CK
 - **IHK IT Qualification** (Linux, Networking, Agile, IT Security)
-- **Bachelor in Media & Mass Communication** (Focus: Journalism & Media)
+- **Data Science Bootcamp** — Neue Fische (Python, SQL, Machine Learning)
+- **Bachelor in Media & Mass Communication** (Human Rights, Migration, Photojournalism)
 
+---
+
+## 💡 Why This Unique Background?
+
+| Traditional SOC Path | My Background |
+| :--- | :--- |
+| Purely technical training | Technical + humanistic lens |
+| Focus on tools alone | Focus on threat narratives + actor psychology |
+| Standard incident response | Specialized in social engineering & harassment campaigns |
+| Single-language communication | Trilingual: English, German, Spanish (cross-cultural teams) |
+
+**I'm particularly interested in:**  
+🔹 SOC Analyst roles (Tier 1/Tier 2)  
+🔹 Cloud Security & DevSecOps positions  
+🔹 Security Operations Centers in Berlin or remote EU  
+🔹 NGOs / Research institutes focused on digital safety  
+🔹 Teams fighting coordinated harassment and disinformation
+
+---
 ---
 
 ## 🌐 Connect & Collaborate
