@@ -56,7 +56,7 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 
 ### 🌐 PWNEDsteps — Web Application Penetration Test
 *Full-chain web pentest: SQLi → LFI → RCE on intentionally vulnerable app.*  
-[View Project →](https://github.com/e-Itohan/pwnedsteps-web-assessment)  
+[View Project →](https://github.com/e-Itohan/PWNEDsteps-web-assesstment)  
 **Skills:** Burp Suite, WPScan, SQL Injection, File Upload Bypass, Reverse Shells, Python Tools
 
 ---
