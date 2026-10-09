@@ -47,14 +47,14 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 
 ---
 
-### 🔐 Vulnix — Vulnerability Assessment & Hardening
+### 🔐 Vulnix - Vulnerability Assessment & Hardening
 *Full-cycle pentest: recon → exploitation → privilege escalation → automated remediation.*  
 [View Project →](https://github.com/e-Itohan/vulnix-security-assessment)  
 **Skills:** Nmap, Metasploit, NFS exploitation, iptables, Bash scripting, Privilege Escalation
 
 ---
 
-### 🌐 PWNEDsteps — Web Application Penetration Test
+### 🌐 PWNEDsteps - Web Application Penetration Test
 *Full-chain web pentest: SQLi → LFI → RCE on intentionally vulnerable app.*  
 [View Project →](https://github.com/e-Itohan/PWNEDsteps-web-assesstment)  
 **Skills:** Burp Suite, WPScan, SQL Injection, File Upload Bypass, Reverse Shells, Python Tools
