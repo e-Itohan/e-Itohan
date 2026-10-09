@@ -4,7 +4,7 @@
 📍 Berlin, Germany | 🇩🇪 🇪🇸   
 🔒 *CompTIA Security+ Certified | CyberSteps Trainee*
 
-> "To fight threats, we must understand the groups behind them. I bridge technical defense with human-centric research on online harassment and mob dynamics."
+> "To fight threats, we must understand the groups behind them. I bridge technical defense with human-centric research on digital safety."
 
 ---
 
@@ -12,7 +12,7 @@
 
 I am a multicultural security professional transitioning from media and data science into **Blue Team Operations**. My mission is twofold:
 1.  **Operational Defense:** Secure networks, analyze logs, and respond to incidents as a SOC Analyst.
-2.  **Public Safety Research:** Investigate coordinated online scams, doxxing mechanics, and develop defense strategies for journalists and vulnerable communities.
+2.  **Public Safety Research:** Investigate coordinated online scams, doxxing mechanics, and develop defense strategies for not only journalists and vulnerable communities but also the general pubic.
 
 With a background in **Photojournalism** and **Data Analytics**, I bring a unique ability to analyze threat narratives while leveraging Python and SQL for automated log analysis and anomaly detection.
 
