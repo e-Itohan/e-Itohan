@@ -41,7 +41,7 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 | **Amazon Forest** | AWS | Cross-cloud replication with Security Groups | [View →](https://github.com/e-Itohan/amazon-forest) |
 | **Evolution** | Azure | Terraform + K8s + CI/CD with Trivy gating | [View →](https://github.com/e-Itohan/learningsteps-evolution) |
 
-> *"Four of five failures were resolved by asking 'is the detector wrong, or is the signal real?' before changing anything — the same discipline as SOC alert analysis."*
+> *"Four of five failures were resolved by asking 'is the detector wrong, or is the signal real?' before changing anything. The same discipline as SOC alert analysis."*
 
 **Skills:** Azure, AWS, Terraform, Kubernetes (AKS), Docker, GitHub Actions, Trivy, PostgreSQL, VPC/NSG
 
