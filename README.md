@@ -32,7 +32,7 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 
 ## 🚀 Featured Projects
 
-### ☁️ LearningSteps — Cloud Security Trilogy
+### ☁️ LearningSteps - Cloud Security Trilogy
 *Three implementations of secure 2-tier architecture: Azure → AWS → DevSecOps automation.*
 
 | Project | Cloud | Focus | Link |
