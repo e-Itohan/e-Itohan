@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Eniola
+# E-Itohan
 
 **Aspiring SOC Analyst | Blue Team Defender | Digital Safety Specialist**  
-📍 Berlin, Germany | 🇩🇪 🇪🇸   
+📍 Berlin, Germany | EN DE ES 
 🔒 *CompTIA Security+ Certified | CyberSteps Trainee*
 
 > "To fight threats, we must understand the groups behind them. I bridge technical defense with human-centric research on digital safety."
@@ -84,12 +84,12 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 ## 🎓 Certifications & Training
 
 - **CompTIA Security+** (Certified June 2026)
-- **Microsoft SC-900** — Security, Compliance & Identity Fundamentals (Certified October 2026)
-- **Microsoft AZ-900** — Azure Fundamentals (Certified September 2026)
-- **CyberSteps** Training Program (Active, 1,440 hours) — SIEM, Incident Response, MITRE ATT&CK
+- **Microsoft SC-900** - Security, Compliance & Identity Fundamentals (Certified October 2026)
+- **Microsoft AZ-900** - Azure Fundamentals (Certified September 2026)
+- **CyberSteps** Cybersecurity Training Program (Active, 1,440 hours) - SIEM, Incident Response, MITRE ATT&CK
 - **IHK IT Qualification** (Linux, Networking, Agile, IT Security)
-- **Data Science Bootcamp** — Neue Fische (Python, SQL, Machine Learning)
-- **Bachelor in Media & Mass Communication** (Human Rights, Migration, Photojournalism)
+- **Data Analytics & Science Training** -  (Python, SQL, Machine Learning)
+- **Bachelor in Media & Mass Communication** (Photojournalism, Film, Documentary, Media Production)
 
 ---
 
@@ -117,7 +117,7 @@ With a background in **Photojournalism** and **Data Analytics**, I bring a uniqu
 I am actively seeking **SOC Analyst**, **Junior Security Analyst**, or **Security Operations Coordinator** roles in Berlin or remotely.
 
 - 💼 **LinkedIn:** [[Link to LinkedIn Profile](https://www.linkedin.com/in/eniola-anianthony/)]
-- 📄 **Resume:** [[Link to PDF Resume](https://rxresu.me/ann_24/soc-analyst-it-security-specialist-public)]
+- 📄 **Resume:** [[Link to PDF Resume](https://rxresu.me/ann_24/soc-analyst-it-security-specialist-public-1col)]
 
 ---
 
